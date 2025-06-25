@@ -14,6 +14,7 @@ A simple **Java console application** to manage student records using CRUD opera
 - Data stored in memory using `ArrayList`
 
 📋 Sample Menu
+
  === Student Management System ===
 1. Add Student
 2. View All Students
